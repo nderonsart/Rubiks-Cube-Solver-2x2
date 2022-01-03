@@ -1,0 +1,573 @@
+----------------------------------------
+Etape -1 :
+Rotation : Init 
+Etat : 
+       W  W  
+       W  W  
+
+O  O   G  G   R  R   B  B  
+O  O   G  G   R  R   B  B  
+
+       Y  Y  
+       Y  Y  
+
+--------------------
+Etape 0 :
+Rotation : Random 
+Etat : 
+       O  O  
+       G  O  
+
+G  Y   R  W   B  G   W  Y  
+W  O   Y  B   Y  R   W  G  
+
+       B  R  
+       R  B  
+
+--------------------
+Etape 1 :
+Rotation : F' 
+Etat : 
+       O  O  
+       B  Y  
+
+G  O   W  B   R  G   W  Y  
+W  G   R  Y   B  R   W  G  
+
+       Y  O  
+       R  B  
+
+--------------------
+Etape 2 :
+Rotation : L' 
+Etat : 
+       W  O  
+       R  Y  
+
+O  G   Y  B   R  G   W  B  
+G  W   R  Y   B  R   W  O  
+
+       G  O  
+       Y  B  
+
+--------------------
+Etape 3 :
+Rotation : R' 
+Etat : 
+       W  W  
+       R  W  
+
+O  G   Y  O   G  R   B  B  
+G  W   R  Y   R  B   O  O  
+
+       G  B  
+       Y  Y  
+
+--------------------
+Etape 4 :
+Rotation : F 
+Etat : 
+       W  W  
+       W  G  
+
+O  G   R  Y   R  R   B  B  
+G  B   Y  O   W  B   O  O  
+
+       R  G  
+       Y  Y  
+
+--------------------
+Etape 5 :
+Rotation : D' 
+Etat : 
+       W  W  
+       W  G  
+
+O  G   R  Y   R  R   B  B  
+Y  O   W  B   O  O   G  B  
+
+       G  Y  
+       R  Y  
+
+--------------------
+Etape 6 :
+Rotation : F' 
+Etat : 
+       W  W  
+       R  O  
+
+O  G   Y  B   Y  R   B  B  
+Y  W   R  W   G  O   G  B  
+
+       G  O  
+       R  Y  
+
+--------------------
+Etape 7 :
+Rotation : D' 
+Etat : 
+       W  W  
+       R  O  
+
+O  G   Y  B   Y  R   B  B  
+R  W   G  O   G  B   Y  W  
+
+       O  Y  
+       G  R  
+
+--------------------
+Etape 8 :
+Rotation : F 
+Etat : 
+       W  W  
+       W  G  
+
+O  O   G  Y   R  R   B  B  
+R  Y   O  B   O  B   Y  W  
+
+       G  Y  
+       G  R  
+
+--------------------
+Etape 9 :
+Rotation : D' 
+Etat : 
+       W  W  
+       W  G  
+
+O  O   G  Y   R  R   B  B  
+O  B   O  B   Y  W   R  Y  
+
+       Y  R  
+       G  G  
+
+--------------------
+Etape 10 :
+Rotation : D' 
+Etat : 
+       W  W  
+       W  G  
+
+O  O   G  Y   R  R   B  B  
+O  B   Y  W   R  Y   O  B  
+
+       R  G  
+       Y  G  
+
+--------------------
+Etape 11 :
+Rotation : F 
+Etat : 
+       W  W  
+       B  O  
+
+O  R   Y  G   W  R   B  B  
+O  G   W  Y   G  Y   O  B  
+
+       R  R  
+       Y  G  
+
+--------------------
+Etape 12 :
+Rotation : D 
+Etat : 
+       W  W  
+       B  O  
+
+O  R   Y  G   W  R   B  B  
+O  B   O  G   W  Y   G  Y  
+
+       Y  R  
+       G  R  
+
+--------------------
+Etape 13 :
+Rotation : F' 
+Etat : 
+       W  W  
+       W  W  
+
+O  O   G  G   R  R   B  B  
+O  B   Y  O   Y  Y   G  Y  
+
+       R  B  
+       G  R  
+
+--------------------
+Etape 14 :
+Rotation : D' 
+Etat : 
+       W  W  
+       W  W  
+
+O  O   G  G   R  R   B  B  
+Y  O   Y  Y   G  Y   O  B  
+
+       B  R  
+       R  G  
+
+--------------------
+Etape 15 :
+Rotation : D' 
+Etat : 
+       W  W  
+       W  W  
+
+O  O   G  G   R  R   B  B  
+Y  Y   G  Y   O  B   Y  O  
+
+       R  G  
+       B  R  
+
+--------------------
+Etape 16 :
+Rotation : B 
+Etat : 
+       R  B  
+       W  W  
+
+W  O   G  G   R  R   Y  B  
+W  Y   G  Y   O  B   O  B  
+
+       R  G  
+       O  Y  
+
+--------------------
+Etape 17 :
+Rotation : R 
+Etat : 
+       R  G  
+       W  Y  
+
+W  O   G  G   O  R   W  B  
+W  Y   G  Y   B  R   B  B  
+
+       R  O  
+       O  Y  
+
+--------------------
+Etape 18 :
+Rotation : D 
+Etat : 
+       R  G  
+       W  Y  
+
+W  O   G  G   O  R   W  B  
+B  B   W  Y   G  Y   B  R  
+
+       O  R  
+       Y  O  
+
+--------------------
+Etape 19 :
+Rotation : R' 
+Etat : 
+       R  B  
+       W  W  
+
+W  O   G  G   R  Y   O  B  
+B  B   W  Y   O  G   R  R  
+
+       O  G  
+       Y  Y  
+
+--------------------
+Etape 20 :
+Rotation : D' 
+Etat : 
+       R  B  
+       W  W  
+
+W  O   G  G   R  Y   O  B  
+W  Y   O  G   R  R   B  B  
+
+       G  Y  
+       O  Y  
+
+--------------------
+Etape 21 :
+Rotation : R 
+Etat : 
+       R  G  
+       W  G  
+
+W  O   G  Y   R  R   W  B  
+W  Y   O  Y   R  Y   B  B  
+
+       G  B  
+       O  O  
+
+--------------------
+Etape 22 :
+Rotation : D 
+Etat : 
+       R  G  
+       W  G  
+
+W  O   G  Y   R  R   W  B  
+B  B   W  Y   O  Y   R  Y  
+
+       O  G  
+       O  B  
+
+--------------------
+Etape 23 :
+Rotation : R' 
+Etat : 
+       R  R  
+       W  W  
+
+W  O   G  G   R  Y   B  B  
+B  B   W  G   R  O   G  Y  
+
+       O  Y  
+       O  Y  
+
+--------------------
+Etape 24 :
+Rotation : D' 
+Etat : 
+       R  R  
+       W  W  
+
+W  O   G  G   R  Y   B  B  
+W  G   R  O   G  Y   B  B  
+
+       Y  Y  
+       O  O  
+
+--------------------
+Etape 25 :
+Rotation : B' 
+Etat : 
+       W  W  
+       W  W  
+
+O  O   G  G   R  R   B  B  
+O  G   R  O   G  R   B  B  
+
+       Y  Y  
+       Y  Y  
+
+--------------------
+Etape 26 :
+Rotation : U 
+Etat : 
+       W  W  
+       W  W  
+
+G  G   R  R   B  B   O  O  
+O  G   R  O   G  R   B  B  
+
+       Y  Y  
+       Y  Y  
+
+--------------------
+Etape 27 :
+Rotation : D' 
+Etat : 
+       W  W  
+       W  W  
+
+G  G   R  R   B  B   O  O  
+R  O   G  R   B  B   O  G  
+
+       Y  Y  
+       Y  Y  
+
+--------------------
+Etape 28 :
+Rotation : U 
+Etat : 
+       W  W  
+       W  W  
+
+R  R   B  B   O  O   G  G  
+R  O   G  R   B  B   O  G  
+
+       Y  Y  
+       Y  Y  
+
+--------------------
+Etape 29 :
+Rotation : D' 
+Etat : 
+       W  W  
+       W  W  
+
+R  R   B  B   O  O   G  G  
+G  R   B  B   O  G   R  O  
+
+       Y  Y  
+       Y  Y  
+
+--------------------
+Etape 30 :
+Rotation : R' 
+Etat : 
+       W  R  
+       W  G  
+
+R  R   B  W   O  G   Y  G  
+G  R   B  W   O  O   Y  O  
+
+       Y  B  
+       Y  B  
+
+--------------------
+Etape 31 :
+Rotation : B 
+Etat : 
+       G  O  
+       W  G  
+
+R  R   B  W   O  B   Y  Y  
+W  R   B  W   O  Y   O  G  
+
+       Y  B  
+       R  G  
+
+--------------------
+Etape 32 :
+Rotation : R' 
+Etat : 
+       G  O  
+       W  Y  
+
+R  R   B  O   B  Y   G  Y  
+W  R   B  G   O  O   B  G  
+
+       Y  W  
+       R  W  
+
+--------------------
+Etape 33 :
+Rotation : F 
+Etat : 
+       G  O  
+       R  R  
+
+R  Y   B  B   W  Y   G  Y  
+W  W   G  O   Y  O   B  G  
+
+       O  B  
+       R  W  
+
+--------------------
+Etape 34 :
+Rotation : F 
+Etat : 
+       G  O  
+       W  Y  
+
+R  O   G  B   R  Y   G  Y  
+W  B   O  B   R  O   B  G  
+
+       Y  W  
+       R  W  
+
+--------------------
+Etape 35 :
+Rotation : R 
+Etat : 
+       G  B  
+       W  B  
+
+R  O   G  W   R  R   Y  Y  
+W  B   O  W   O  Y   O  G  
+
+       Y  B  
+       R  G  
+
+--------------------
+Etape 36 :
+Rotation : B' 
+Etat : 
+       W  R  
+       W  B  
+
+R  O   G  W   R  G   Y  G  
+G  B   O  W   O  B   Y  O  
+
+       Y  B  
+       Y  R  
+
+--------------------
+Etape 37 :
+Rotation : R' 
+Etat : 
+       W  Y  
+       W  Y  
+
+R  O   G  R   G  B   R  G  
+G  B   O  B   R  O   B  O  
+
+       Y  W  
+       Y  W  
+
+--------------------
+Etape 38 :
+Rotation : F 
+Etat : 
+       W  Y  
+       B  O  
+
+R  Y   O  G   W  B   R  G  
+G  W   B  R   Y  O   B  O  
+
+       R  G  
+       Y  W  
+
+--------------------
+Etape 39 :
+Rotation : F 
+Etat : 
+       W  Y  
+       W  Y  
+
+R  R   B  O   B  B   R  G  
+G  G   R  G   O  O   B  O  
+
+       Y  W  
+       Y  W  
+
+--------------------
+Etape 40 :
+Rotation : R 
+Etat : 
+       W  O  
+       W  G  
+
+R  R   B  W   O  B   Y  G  
+G  G   R  W   O  B   Y  O  
+
+       Y  B  
+       Y  R  
+
+--------------------
+Etape 41 :
+Rotation : R 
+Etat : 
+       W  W  
+       W  W  
+
+R  R   B  B   O  O   G  G  
+G  G   R  R   B  B   O  O  
+
+       Y  Y  
+       Y  Y  
+
+--------------------
+Etape 42 :
+Rotation : D' 
+Etat : 
+       W  W  
+       W  W  
+
+R  R   B  B   O  O   G  G  
+R  R   B  B   O  O   G  G  
+
+       Y  Y  
+       Y  Y  
+
+----------------------------------------
